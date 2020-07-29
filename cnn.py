@@ -1,33 +1,83 @@
-import torch
-from torch.utils.data import Dataset
-import scipy.io as sio
+from __future__ import print_function
+import argparse
 import os
+import random
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+import torch.nn.parallel
+import torch.backends.cudnn as cudnn
+import torch.optim as optim
+import torch.utils.data
+import torchvision.datasets as dset
+import torchvision.transforms as transforms
+import torchvision.utils as vutils
 import numpy as np
-import copy
-from sklearn.model_selection import train_test_split
-from torchvision import transforms
-from PIL import Image
-from PIL import ImageOps
 import matplotlib.pyplot as plt
-import random 
-from sklearn import metrics
+import matplotlib.animation as animation
 from statistics import mean
-from statistics import mode  
-from torch.utils import data           
-from torch import nn
-from torch.nn import functional as F
-import math
-from torch import optim
 import sys
-import pickle
-import cv2
-from sklearn.feature_extraction import image
+from torchsummary import summary
 
-class numpyToTensor(object):
-    """Convert ndarrays in sample to Tensors."""
-
-    def __call__(self, sample):
-        return torch.from_numpy(sample).float()
+class Flat(nn.Module):
     
-PATH = "/ctm-hdd-pool01/DB/LivDet2015/train/"
+    def __init__(self):
+        super(Flat, self).__init__()
+        
+    def forward(self, x):
+        return x.view(x.size(0), -1)
 
+
+class CNN(nn.Module):
+    
+    def __init__(self):
+        
+        super(CNN, self).__init__()
+        
+        self.main = nn.Sequential(
+
+            nn.Conv2d(3, 64, 5),
+            nn.BatchNorm2d(64),
+            nn.ReLU(inplace=True),
+            
+            nn.Conv2d(64, 64, 5),
+            nn.BatchNorm2d(64),
+            nn.ReLU(inplace=True),
+
+            nn.Conv2d(64, 64, 5),
+            nn.BatchNorm2d(64),
+            nn.ReLU(inplace=True),
+            
+            Flat(),
+
+            nn.Linear(861184, 128),
+            nn.ReLU(inplace=True),
+            
+            nn.Linear(128, 64),
+            nn.ReLU(inplace=True),
+            
+            nn.Linear(64, 2),
+            
+        )
+
+    def forward(self, input):
+
+        return self.main(input)
+
+  
+if __name__ == '__main__':
+
+    print()
+    if torch.cuda.is_available():
+        DEVICE = torch.device("cuda:0")  # you can continue going on here, like cuda:1 cuda:2....etc. 
+        print("Running on the GPU...")
+    else:
+        DEVICE = torch.device("cpu")
+        print("Running on the CPU...")
+    print()
+
+    
+    model = CNN().to(DEVICE)
+    print(model)
+
+    summary(model, (3, 128, 128))

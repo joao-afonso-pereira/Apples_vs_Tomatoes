@@ -1,0 +1,1432 @@
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\102red applee00901102.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\103red applee00916103.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\107red applee01001107.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\108red applee01006108.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\109red applee01021109.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\110red applee01036110.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\111red applee01081111.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\112red applee01096112.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\113red applee01101113.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\11red applee04901.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\120red applee01276120.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\121red applee01291121.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\122red applee01301122.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\130red applee01411130.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\132red applee01441132.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\134red applee01471134.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\135red applee01486135.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\136red applee01501136.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\137red applee01516137.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\141red applee01576141.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\143red applee01606143.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\144red applee01621144.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\145red applee01636145.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\146red applee01701146.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\147red applee01726147.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\148red applee01741148.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\149red applee01786149.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\14red applee05201.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\150red applee01801150.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\152red applee01831152.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\153red applee01846153.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\154red applee01861154.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\157red applee01901157.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\158red applee01906158.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\159red applee01921159.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\15red applee05301.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\160red applee01936160.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\161red applee01966161.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\162red applee01996162.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\163red applee02001163.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\164red applee02026164.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\165red applee02056165.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\166red applee02071166.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\167red applee02086167.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\168red applee02101168.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\169red applee02116169.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\170red applee02161170.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\171red applee02176171.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\172red applee02191172.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\173red applee02206173.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\174red applee02296174.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\175red applee02301175.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\177red applee02341177.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\17red applee05601.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\181red applee02401181.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\183red applee02431183.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\184red applee02501184.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\185red applee02506185.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\187red applee02536187.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\189red applee02566189.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\18red applee06701.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\190red applee02581190.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\191red applee02596191.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\192red applee02601192.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\193red applee02611193.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\194red applee02626194.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\1red applee02901.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\204red applee02776204.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\206red applee02801206.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\20red applee07601.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\212red applee02896212.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\213red applee02901213.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\214red applee02911214.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\215red applee02926215.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\216red applee02941216.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\217red applee02956217.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\218red applee03001218.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\219red applee03016219.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\21red applee07701.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\224red applee03091224.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\225red applee03101225.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\226red applee03106226.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\22red applee07901.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\233red applee03201233.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\237red applee03301237.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\239red applee03331239.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\23red applee08601.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\243red applee03436243.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\244red applee03466244.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\246red applee03496246.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\247red applee03501247.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\248red applee03511248.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\249red applee03526249.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\24red applee08701.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\253red applee03601253.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\259red applee03691259.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\25red applee09501.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\260red applee03701260.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\261red applee03706261.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\263red applee03751263.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\264red applee03766264.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\265red applee03781265.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\266red applee03796266.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\267red applee03801267.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\268red applee03811268.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\26red applee09701.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\271red applee03856271.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\272red applee03871272.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\273red applee03886273.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\274red applee03901274.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\275red applee03916275.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\276red applee03931276.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\277red applee03946277.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\278red applee03961278.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\279red applee03976279.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\27red applee10301.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\280red applee03991280.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\281red applee04001281.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\282red applee04006282.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\283red applee04021283.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\284red applee04036284.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\285red applee04051285.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\286red applee04066286.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\287red applee04101287.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\288red applee04126288.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\289red applee04156289.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\28red applee10501.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\291red applee04201291.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\292red applee04216292.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\294red applee04246294.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\295red applee04261295.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\296red applee04301296.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\297red applee04321297.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\298red applee04336298.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\299red applee04351299.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\29red applee10701.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\2red applee03301.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\300red applee04401300.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\301red applee04426301.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\303red applee04456303.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\304red applee04471304.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\306red applee04501306.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\30red applee10801.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\31 red apple.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\311red applee04576311.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\312red applee04591312.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\313red applee04601313.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\314red applee04606314.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\31red applee10101.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\32 red apple.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\321red applee04701321.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\322red applee04711322.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\325red applee04756325.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\327red applee04786327.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\328red applee04801328.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\33 red apple.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\331red applee04846331.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\332red applee04861332.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\335red applee04901335.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\337red applee04921337.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\34 red apple.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\340red applee04966340.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\341red applee04981341.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\342red applee04996342.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\343red applee05001343.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\344red applee05011344.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\345red applee05026345.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\346red applee05041346.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\348red applee05101348.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\349red applee05116349.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\350red applee05131350.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\351red applee05146351.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\352red applee05161352.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\353red applee05176353.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\354red applee05191354.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\355red applee05201355.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\35red apple.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\36 red apple.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\362red applee05311362.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\363red applee05356363.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\364red applee05371364.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\369red applee05446369.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\37 red apple.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\373red applee05501373.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\376red applee05536376.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\378red applee05566378.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\38 red apple.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\381red applee05601381.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\388red applee05701388.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\39 red apple.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\392red applee05761392.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\395red applee05801395.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\3red applee03501.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\40 red apple.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\401red applee05896401.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\402red applee05901402.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\403red applee05911403.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\404red applee05926404.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\405red applee05941405.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\406red applee05956406.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\407red applee05986407.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\408red applee06001408.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\409red applee06016409.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\41 red apple.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\410red applee06031410.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\411red applee06046411.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\414red applee06091414.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\415red applee06101415.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\42 red apple.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\421red applee06181421.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\423red applee06201423.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\424red applee06211424.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\425red applee06226425.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\426red applee06241426.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\427red applee06301427.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\428red applee06401428.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\431red applee06436431.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\436red applee06501436.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\437red applee06511437.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\438red applee06601438.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\439red applee06701439.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\43red applee0000143.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\440red applee06801440.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\441red applee06901441.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\442red applee07001442.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\443red applee07101443.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\444red applee07201444.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\445red applee07301445.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\446red applee07401446.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\44red applee0000144.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\450red applee07901450.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\451red applee08001451.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\452red applee08201452.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\453red applee08301453.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\454red applee08401454.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\455red applee08501455.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\456red applee08601456.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\457red applee08701457.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\458red applee08801458.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\45red applee0000145.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\461red applee09201461.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\462red applee09301462.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\463red applee09401463.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\464red applee09501464.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\465red applee09601465.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\466red applee09701466.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\467red applee09801467.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\468red applee09901468.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\469red applee10001469.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\46red applee0001646.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\470red applee10101470.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\471red applee10201471.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\472red applee10301472.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\476red applee10701476.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\478red applee00001478.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\479red applee00071479.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\480red applee00101480.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\481red applee00201481.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\482red applee00211482.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\483red applee00281483.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\484red applee00301484.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\485red applee00401485.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\486red applee00501486.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\487red applee00561487.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\488red applee00601488.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\489red applee00631489.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\490red applee00701490.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\491red applee00771491.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\492red applee00801492.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\493red applee00841493.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\494red applee00901494.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\495red applee00911495.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\496red applee01001496.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\497red applee01101497.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\498red applee01191498.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\499red applee01201499.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\4red applee03601.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\500red applee01301500.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\501red applee01331501.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\502red applee01401502.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\503red applee01501503.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\504red applee01541504.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\505red applee01611505.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\506red applee01681506.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\507red applee01701507.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\508red applee01751508.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\509red applee01801509.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\510red applee01821510.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\511red applee01901511.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\512red applee02001512.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\513red applee02101513.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\514red applee02171514.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\515red applee02201515.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\516red applee02241516.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\517red applee02301517.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\518red applee02381518.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\519red applee02401519.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\520red applee02451520.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\521red applee02501521.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\522red applee02521522.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\523red applee02601523.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\524red applee02661524.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\525red applee02731525.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\526red applee02801526.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\527red applee02871527.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\528red applee02901528.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\529red applee03001529.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\52red applee0010152.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\530red applee03011530.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\531red applee03101531.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\532red applee03151532.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\533red applee03201533.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\534red applee03221534.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\535red applee03291535.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\536red applee03301536.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\537red applee03501537.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\538red applee03601538.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\539red applee03701539.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\53red applee0010653.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\540red applee03781540.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\541red applee03801541.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\542red applee03851542.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\543red applee03901543.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\544red applee03921544.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\545red applee04001545.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\546red applee04061546.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\547red applee04101547.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\548red applee04131548.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\549red applee04201549.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\550red applee04271550.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\551red applee04301551.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\552red applee04341552.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\553red applee04401553.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\554red applee04411554.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\555red applee04501555.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\556red applee04601556.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\557red applee04621557.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\558red applee04701558.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\559red applee04761559.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\560red applee04801560.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\561red applee04831561.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\562red applee04901562.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\563red applee05001563.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\564red applee05101564.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\565red applee05111565.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\566red applee05181566.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\567red applee05201567.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\568red applee05251568.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\569red applee05301569.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\570red applee05321570.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\571red applee05391571.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\572red applee05401572.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\573red applee05461573.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\574red applee05501574.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\575red applee05531575.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\576red applee05601576.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\577red applee05671577.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\578red applee05701578.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\579red applee05741579.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\580red applee05801580.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\581red applee05901581.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\582red applee06001582.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\583red applee06101583.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\584red applee06201584.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\585red applee06301585.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\586red applee06401586.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\587red applee06501587.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\588red applee06601588.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\589red applee06701589.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\590red applee06801590.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\591red applee06901591.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\592red applee07001592.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\593red applee07101593.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\594red applee07201594.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\595red applee07301595.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\596red applee07401596.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\597red applee07501597.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\598red applee07601598.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\599red applee07701599.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\600red applee07901600.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\601red applee08001601.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\602red applee08201602.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\603red applee08301603.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\604red applee08401604.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\605red applee08501605.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\606red applee08601606.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\607red applee08701607.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\608red applee08801608.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\609red applee08901609.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\60red applee0020160.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\610red applee09101610.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\611red applee09201611.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\612red applee09301612.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\613red applee09401613.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\614red applee09501614.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\615red applee09601615.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\616red applee09701616.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\617red applee09801617.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\618red applee09901618.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\619red applee10001619.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\61red applee0021161.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\620red applee10101620.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\621red applee10201621.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\622red applee10301622.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\623red applee10401623.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\624red applee10501624.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\625red applee10601625.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\626red applee10701626.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\627red applee10801627.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\67red applee0030167.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\6red applee03801.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\71red applee0036171.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\74red applee0040174.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\82red applee0054182.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\83red applee0055683.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\84red applee0057184.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\85red applee0058685.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\86red applee0060186.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\87red applee0061687.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\88red applee0063188.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\89red applee0064689.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\90red applee0069190.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\91red applee0070191.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\92red applee0070692.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\95red applee0079695.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\96red applee0080196.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\97red applee0081197.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 1.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 10.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 100.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 101.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 102.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 103.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 104.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 105.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 106.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 107.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 108.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 109.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 11.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 110.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 111.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 112.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 113.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 114.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 115.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 116.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 117.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 118.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 119.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 12.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 120.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 121.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 122.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 123.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 124.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 125.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 126.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 127.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 128.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 129.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 13.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 130.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 131.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 132.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 133.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 134.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 135.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 136.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 137.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 138.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 139.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 14.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 140.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 141.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 142.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 143.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 144.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 145.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 146.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 147.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 148.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 149.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 15.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 150.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 151.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 152.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 153.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 154.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 155.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 156.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 157.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 158.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 159.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 16.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 160.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 161.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 162.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 163.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 164.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 165.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 166.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 167.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 168.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 169.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 17.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 170.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 171.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 172.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 173.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 174.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 175.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 176.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 177.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 178.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 179.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 18.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 180.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 181.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 182.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 183.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 184.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 185.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 186.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 187.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 188.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 189.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 19.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 190.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 191.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 192.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 193.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 194.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 195.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 196.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 197.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 198.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 199.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 2.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 20.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 200.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 201.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 202.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 203.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 204.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 205.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 206.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 207.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 208.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 209.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 21.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 210.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 211.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 212.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 213.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 214.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 215.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 216.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 217.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 218.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 219.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 22.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 220.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 221.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 222.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 223.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 224.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 225.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 226.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 227.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 228.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 229.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 23.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 230.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 231.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 232.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 233.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 234.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 235.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 236.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 237.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 238.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 239.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 24.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 240.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 241.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 242.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 243.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 244.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 245.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 246.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 247.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 248.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 249.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 25.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 250.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 251.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 252.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 253.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 254.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 255.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 256.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 257.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 258.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 259.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 26.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 260.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 261.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 262.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 263.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 264.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 265.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 266.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 267.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 268.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 269.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 27.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 270.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 271.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 272.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 273.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 274.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 275.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 276.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 277.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 278.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 279.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 28.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 280.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 281.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 282.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 283.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 284.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 285.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 286.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 287.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 288.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 289.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 29.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 290.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 291.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 292.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 293.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 294.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 295.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 296.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 297.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 298.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 299.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 3.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 30.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 300.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 301.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 302.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 303.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 304.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 305.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 306.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 307.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 308.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 309.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 31.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 310.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 311.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 312.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 313.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 314.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 315.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 316.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 317.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 318.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 319.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 32.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 320.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 321.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 322.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 323.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 324.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 325.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 326.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 327.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 328.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 329.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 33.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 330.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 331.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 332.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 333.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 334.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 335.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 336.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 337.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 338.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 339.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 34.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 340.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 341.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 342.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 343.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 344.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 345.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 346.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 347.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 348.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 349.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 35.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 350.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 351.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 352.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 353.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 354.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 355.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 356.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 357.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 358.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 359.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 36.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 360.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 361.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 362.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 363.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 364.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 365.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 366.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 367.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 368.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 369.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 37.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 370.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 371.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 372.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 373.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 374.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 375.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 376.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 377.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 378.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 379.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 38.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 380.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 381.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 382.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 383.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 384.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 385.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 386.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 387.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 388.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 389.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 39.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 390.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 391.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 392.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 393.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 394.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 395.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 396.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 397.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 398.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 399.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 4.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 40.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 400.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 401.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 402.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 403.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 404.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 405.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 406.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 407.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 408.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 409.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 41.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 410.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 411.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 412.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 413.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 414.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 415.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 416.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 417.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 418.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 419.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 42.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 420.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 421.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 422.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 423.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 424.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 425.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 426.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 427.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 428.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 429.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 43.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 430.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 431.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 432.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 433.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 434.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 435.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 436.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 437.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 438.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 439.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 44.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 440.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 441.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 442.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 443.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 444.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 445.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 446.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 447.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 448.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 449.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 45.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 450.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 451.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 452.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 453.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 454.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 455.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 456.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 457.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 458.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 459.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 46.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 460.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 461.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 462.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 463.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 464.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 465.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 466.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 467.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 468.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 469.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 47.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 470.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 471.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 472.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 473.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 474.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 475.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 476.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 477.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 478.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 479.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 48.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 480.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 481.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 482.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 483.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 484.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 485.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 486.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 487.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 488.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 489.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 49.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 490.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 491.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 492.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 493.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 494.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 495.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 496.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 497.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 498.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 499.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 5.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 50.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 500.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 501.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 502.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 503.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 504.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 505.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 506.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 507.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 508.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 509.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 51.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 510.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 511.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 512.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 513.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 514.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 515.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 516.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 517.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 518.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 519.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 52.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 520.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 521.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 522.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 523.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 524.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 525.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 526.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 527.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 528.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 529.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 53.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 530.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 531.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 532.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 533.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 534.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 535.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 536.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 537.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 538.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 539.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 54.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 540.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 541.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 542.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 543.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 544.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 545.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 546.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 547.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 548.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 549.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 55.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 550.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 551.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 552.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 553.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 554.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 555.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 556.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 557.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 558.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 559.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 56.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 560.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 561.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 562.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 563.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 564.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 565.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 566.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 567.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 568.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 569.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 57.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 570.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 571.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 572.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 573.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 574.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 575.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 576.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 577.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 578.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 579.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 58.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 580.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 581.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 582.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 583.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 584.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 585.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 586.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 587.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 588.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 589.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 59.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 590.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 591.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 592.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 593.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 594.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 595.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 596.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 597.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 598.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 599.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 6.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 60.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 600.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 601.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 602.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 603.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 604.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 605.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 606.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 607.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 608.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 609.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 61.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 610.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 611.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 612.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 613.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 614.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 615.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 616.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 617.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 618.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 619.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 62.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 620.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 621.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 622.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 623.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 624.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 625.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 626.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 627.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 628.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 629.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 63.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 630.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 631.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 632.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 633.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 634.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 635.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 636.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 637.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 638.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 639.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 64.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 640.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 641.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 642.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 643.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 644.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 645.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 646.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 647.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 648.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 649.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 65.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 650.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 651.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 652.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 653.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 654.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 655.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 656.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 657.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 658.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 659.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 66.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 660.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 661.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 662.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 663.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 664.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 665.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 666.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 667.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 668.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 669.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 67.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 670.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 671.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 672.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 673.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 674.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 675.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 676.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 677.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 678.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 679.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 68.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 680.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 681.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 682.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 683.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 684.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 685.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 686.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 687.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 688.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 689.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 69.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 690.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 691.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 692.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 7.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 70.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 71.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 72.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 73.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 74.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 75.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 76.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 77.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 78.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 79.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 8.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 80.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 81.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 82.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 83.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 84.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 85.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 86.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 87.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 88.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 89.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 9.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 90.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 91.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 92.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 93.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 94.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 95.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 96.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 97.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 98.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Apple 99.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee1 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee1.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee10 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee10.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee11 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee11.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee12 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee12.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee13 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee13.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee14 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee14.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee15 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee15.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee16 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee16.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee17 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee17.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee18 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee18.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee19 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee19.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee2 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee2.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee20 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee20.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee21 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee21.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee22 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee22.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee23 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee23.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee24 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee24.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee25 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee25.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee26 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee26.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee27 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee27.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee28 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee28.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee29 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee29.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee3 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee3.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee30 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee30.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee31 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee31.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee32 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee32.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee33 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee33.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee34 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee34.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee35 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee35.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee36 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee36.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee37 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee37.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee38 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee38.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee39 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee39.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee4 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee4.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee40 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee40.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee41 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee41.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee42 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee42.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee43 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee43.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee44 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee44.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee45 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee45.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee46 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee46.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee47 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee47.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee48 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee48.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee49 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee49.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee5 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee5.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee50 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee50.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee51 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee51.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee6 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee6.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee7 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee7.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee8 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee8.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee9 - Copy.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\Red Applee9.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00076.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00201.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00326.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00401.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00451.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00476.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00501.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00526.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00576.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00601.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00626.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00651.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00676.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00701.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00751.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00776.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00801.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00826.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00851.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00901.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00926.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00951.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene00976.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01001.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01076.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01101.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01176.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01201.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01226.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01251.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01301.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01326.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01351.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01376.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01401.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01426.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01451.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01476.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01501.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01526.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01551.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01601.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01626.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01651.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01726.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01751.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01776.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01801.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01826.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01851.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01876.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene01951.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02026.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02051.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02076.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02101.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02126.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02176.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02201.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02251.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02276.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02301.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02326.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02376.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02401.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02426.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02476.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02551.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02626.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02651.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02701.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02726.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02776.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02826.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02851.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02901.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene02926.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03001.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03026.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03076.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03101.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03126.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03151.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03176.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03226.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03251.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03276.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03326.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03401.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03451.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03476.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03551.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03576.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03601.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03626.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03651.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03701.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03726.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03751.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03776.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03801.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03826.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03901.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03926.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene03951.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04001.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04026.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04051.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04101.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04126.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04151.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04176.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04201.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04251.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04276.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04351.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04376.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04401.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04451.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04476.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04501.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04551.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04576.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04601.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04626.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04726.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04751.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04776.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04826.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04876.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04901.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene04926.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05026.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05101.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05151.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05201.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05226.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05276.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05301.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05326.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05351.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05401.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05426.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05451.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05476.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05501.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05526.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05551.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05576.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05601.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05626.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05676.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05701.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05726.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05751.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05776.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05801.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05826.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05851.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05876.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05901.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05926.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05951.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene05976.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06001.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06026.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06051.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06076.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06101.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06126.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06151.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06226.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06251.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06276.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06301.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06326.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06351.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06426.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06551.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06576.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06601.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06651.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06701.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06726.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06751.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06776.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06801.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06851.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06876.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06951.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene06976.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07026.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07051.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07151.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07176.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07201.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07226.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07276.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07326.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07351.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07401.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07451.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07476.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07576.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07601.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07626.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07651.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07701.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07726.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07751.png
+L:/Projects/Apples_vs_Tomatoes/Dataset/Apples\scene07776.png
