@@ -18,6 +18,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from statistics import mean
+import sys
 
 from data import get_data_loaders
 from cnn import CNN
@@ -188,209 +189,35 @@ def eval_model(model, data_loader, device, debug=False):
 
 
 def main():
-    
-    IMG_PATH = "/ctm-hdd-pool01/DB/LivDet2015/train/"
-    
-    CUDA = 0
-    
+
     print()
     if torch.cuda.is_available():
-        DEVICE = torch.device("cuda:" + str(CUDA))  # you can continue going on here, like cuda:1 cuda:2....etc. 
+        DEVICE = torch.device("cuda:0")  # you can continue going on here, like cuda:1 cuda:2....etc. 
         print("Running on the GPU")
     else:
         DEVICE = torch.device("cpu")
         print("Running on the CPU")
     
-    mode = input("Enter the mode [train/test]: ")
-    data_ = input("Dataset [ALL/CrossMatch/Digital_Persona/GreenBit/Hi_Scan/Time_Series]: ")
-    unseen_ = input("Unseen attack? [y/n]: ")
-    
-    if unseen_ == "y":
-        unseen = True
-        NUM_ITERATIONS = 1
-        attack_txt = "UA"
-    elif unseen_ == "n":
-        unseen = False 
-        NUM_ITERATIONS = 3
-        attack_txt = "OA"
-    else:
-        sys.exit("Error ('Unseen attack?'): incorrect input!")
-        
-    if data_ == "ALL":    
-        sensors = ["CrossMatch", "Digital_Persona", "GreenBit", "Hi_Scan", "Time_Series"]    
-    else:    
-        sensors = [data_]     
-    
-    for DATASET in sensors:
-        
-        print("\nRunning in " + DATASET + "...\n")
+                
+    model = CNN.to(DEVICE)
     
         
-        if DATASET == "CrossMatch" or DATASET=="Time_Series":
-            NUM_MATERIALS = 3
-        else:
-            NUM_MATERIALS = 4
-            
-        # For LOOP - Test splits
-        train_results_ = []
-        results = []
-        best_epochs = []    
-        
-        for iteration in range(NUM_ITERATIONS):
-            
-            print("\n-- ITERATION {}/{} --".format(iteration+1, NUM_ITERATIONS))
+    (train_loader, valid_loader, test_loader) = get_data_loaders()
     
-            for test_material in range(NUM_MATERIALS):
-                
-                output_fn = "results/" + DATASET + "/" + DATASET + "_" + str(test_material) + "_"
-                model_path = "/ctm-hdd-pool01/afpstudents/jaf/CNN2_" + DATASET + "_" + str(test_material) + "_"
-                
-                n_fake_train = -1
-                if unseen_ == "y":
-                    n_fake_train = NUM_MATERIALS-1
-                if unseen_ == "n":
-                    n_fake_train = 1
-                
-                #model = CNN2_REG_FPAD(num_materials=n_fake_train).to(DEVICE)
-                
-                model = CNN2_FPAD().to(DEVICE)
-                
-                # Train or test
-                if mode == 'train':
-                    
-                    (train_loader, valid_loader, test_loader) = get_data_loaders(IMG_PATH, DATASET, test_material, croped=True, unseen_attack=unseen)
-                    
-                    
-                    # Fit model
-                    model, train_history, _, best_epoch = fit(model=model,
-                                                  data=(train_loader, valid_loader),
-                                                  device=DEVICE,
-                                                  model_path = model_path,                                 
-                                                  output=output_fn)
+    
+    # Fit model
+    model, train_history, _, best_epoch = fit(model=model, data=(train_loader, valid_loader), device=DEVICE)
             
-                    # save train history
-                    train_res_fn = output_fn + "history.pckl"
-                    pickle.dump(train_history, open(train_res_fn, "wb"))
-            
-                elif mode == 'test':
-                    sys.exit("Error: in construction yet!")
-                    '''
-                    model.load_state_dict(torch.load(
-                                          os.path.join(*(output_fn, 'mlp_fpad.pth'))))
-            
-                    # load train history
-                    res_fn = os.path.join(*(output_fn, '_history.pckl'))
-                    train_history = pickle.load(open(res_fn, "rb"))
-                    plot_fn = os.path.join(*(output_fn, 'mlp_fpad_history.png'))
-                    plot_train_history(train_history, plot_fn=plot_fn)
-                    '''
-                else:
-                    sys.exit("Error: incorrect mode!")
                 
-                #Train results
-                train_results = pickle.load(open(train_res_fn, "rb"))
-                train_results_.append([train_results['train_acc'][EPOCHS-1], train_results['train_apcer'][EPOCHS-1], train_results['train_bpcer'][EPOCHS-1], train_results['train_eer'][EPOCHS-1], train_results['train_bpcer_apcer1'][EPOCHS-1], train_results['train_bpcer_apcer5'][EPOCHS-1], train_results['train_bpcer_apcer10'][EPOCHS-1], train_results['train_apcer1'][EPOCHS-1], train_results['train_apcer5'][EPOCHS-1], train_results['train_apcer10'][EPOCHS-1]])
+    # Test results
+    test_loss, test_acc = eval_model(model, test_loader, DEVICE)
+    
+    print('\nTest loss: {:.3f}            |'.format(test_loss.item()) + ' Test Acc: {:.3f}'.format(test_acc))
+    
+    results_test = [test_loss.item(), test_acc]
+       
+    np.savetxt('results.txt', results_test, fmt='%.3f', delimiter=',')
                 
-                # Test results
-                test_loss, test_acc, test_apcer, test_bpcer, test_eer, test_bpcer_apcer1, test_bpcer_apcer5, test_bpcer_apcer10, test_apcer1, test_apcer5, test_apcer10 = eval_model(model, test_loader, DEVICE)
-                print('\nTest loss: {:.3f}            |'.format(test_loss.item()) + ' Test Acc: {:.3f}'.format(test_acc) + '\nTest APCER: {:.3f}           |'.format(test_apcer) + ' Test BPCER: {:.3f}'.format(test_bpcer))     
-                print('Test BPCER@APCER=1%: {:.3f}  | Test APCER1: {:.3f}'.format(test_bpcer_apcer1, test_apcer1))
-                print('Test BPCER@APCER=5%: {:.3f}  | Test APCER5: {:.3f}'.format(test_bpcer_apcer5, test_apcer5))
-                print('Test BPCER@APCER=10%: {:.3f} | Test APCER10: {:.3f}'.format(test_bpcer_apcer10, test_apcer10))
-                print('Test EER: {:.3f}'.format(test_eer))
-                results.append((test_loss.item(), test_acc, test_apcer, test_bpcer, test_eer, test_bpcer_apcer1, test_bpcer_apcer5, test_bpcer_apcer10, test_apcer1, test_apcer5, test_apcer10))
-                
-                best_epochs.append(best_epoch)
-            
-                # save results
-                res_fn = output_fn + 'results.pckl'
-                pickle.dump(results, open(res_fn, "wb"))
-                results = pickle.load(open(res_fn, "rb"))
-                
-            
-            
-            # Compute average and std
-            acc_array = np.array([i[1] for i in results])
-            apcer_array = np.array([i[2] for i in results])
-            bpcer_array = np.array([i[3] for i in results])
-            eer_array = np.array([i[4] for i in results])
-            bpcer_apcer1_array = np.array([i[5] for i in results])
-            bpcer_apcer5_array = np.array([i[6] for i in results])
-            bpcer_apcer10_array = np.array([i[7] for i in results])
-            apcer1_array = np.array([i[8] for i in results])
-            apcer5_array = np.array([i[9] for i in results])
-            apcer10_array = np.array([i[10] for i in results])
-            
-            print('\n\n\n---------------------------------\n-------------------------------------------')
-            print('Average Acc: {:.3f}             |'.format(np.mean(acc_array)) + ' Std: {:.3f}'.format(np.std(acc_array)))
-            print('Average APCER: {:.3f}           |'.format(np.mean(apcer_array)) + ' Std: {:.3f}'.format(np.std(apcer_array)))
-            print('Average BPCER: {:.3f}           |'.format(np.mean(bpcer_array)) + ' Std: {:.3f}'.format(np.std(bpcer_array)))
-            print('Average EER: {:.3f}             |'.format(np.mean(eer_array)) + ' Std: {:.3f}'.format(np.std(eer_array)))
-            print('Average BPCER@APCER=1%: {:.3f}  |'.format(np.mean(bpcer_apcer1_array)) + ' Std: {:.3f}'.format(np.std(bpcer_apcer1_array)))
-            print('Average BPCER@APCER=5%: {:.3f}  |'.format(np.mean(bpcer_apcer5_array)) + ' Std: {:.3f}'.format(np.std(bpcer_apcer5_array)))
-            print('Average BPCER@APCER=10%: {:.3f} |'.format(np.mean(bpcer_apcer10_array)) + ' Std: {:.3f}'.format(np.std(bpcer_apcer10_array)))
-            print('Average APCER1: {:.3f}          |'.format(np.mean(apcer1_array)) + ' Std: {:.3f}'.format(np.std(apcer1_array)))
-            print('Average APCER5: {:.3f}          |'.format(np.mean(apcer5_array)) + ' Std: {:.3f}'.format(np.std(apcer5_array)))
-            print('Average APCER10: {:.3f}         |'.format(np.mean(apcer10_array)) + ' Std: {:.3f}'.format(np.std(apcer10_array)))
-            
-            #Best epochs
-            print('\nBest epochs:', end=" ")
-            for epoch in best_epochs:
-                print(epoch, end="   ")
-                
-            #Results of all loops (train and test)
-            np.set_printoptions(formatter={'float': '{: 0.3f}'.format})
-            print()
-            print()
-            print(DATASET + "results:")
-            print()
-            print(">>Train results [Acc, APCER, BPCER, EER, BPCER@APCER=1%, BPCER@APCER=5%, BPCER@APCER=10%, APCER1, APCER5, APCER10]")
-            print()
-            for k in range(NUM_MATERIALS):
-                print(*train_results_[k], sep = ", ") 
-            
-            print()
-            print()
-            print(">>Test results")
-            
-            results_test = []
-            
-            for j in range(len(list(acc_array))):
-                res = []
-                res.append(acc_array[j])
-                res.append(apcer_array[j])
-                res.append(bpcer_array[j])
-                res.append(eer_array[j])
-                res.append(bpcer_apcer1_array[j])
-                res.append(bpcer_apcer5_array[j])
-                res.append(bpcer_apcer10_array[j])
-                res.append(apcer1_array[j])
-                res.append(apcer1_array[j])
-                res.append(apcer10_array[j])
-                       
-                print(*res, sep = ", ") 
-                
-                results_test.append(res)
-                
-            if iteration == NUM_ITERATIONS-1:        
-                np.savetxt(DATASET + '_' + attack_txt + '_test.txt', results_test, fmt='%.3f', delimiter=',')
-                
-            '''
-            print()
-            print()
-            print(">>Test results")
-            print()
-            print("Acc:             {}".format(acc_array))
-            print("APCER:           {}".format(apcer_array))
-            print("BPCER:           {}".format(bpcer_array))
-            print("EER:             {}".format(eer_array))
-            print("BPCER@APCER=1%:  {}".format(bpcer_apcer1_array))
-            print("BPCER@APCER=5%:  {}".format(bpcer_apcer5_array))
-            print("BPCER@APCER=10%: {}".format(bpcer_apcer10_array))
-            print("APCER1:          {}".format(apcer1_array))
-            print("APCER5:          {}".format(apcer5_array))
-            print("APCER10:         {}".format(apcer10_array))
-            '''
     
     print("\n\nDONE!")
 
