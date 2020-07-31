@@ -133,7 +133,7 @@ def get_data_loaders():
     train_dataset, val_dataset = torch.utils.data.random_split(_dataset, [train_size, val_size])
     
     # Parameters
-    params = {'batch_size': 32,
+    params = {'batch_size': 16,
               'shuffle': True,
               'num_workers': 0}
       

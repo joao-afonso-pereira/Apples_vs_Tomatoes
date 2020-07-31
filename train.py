@@ -30,7 +30,7 @@ loss_fn = F.cross_entropy
 LEARNING_RATE = 1e-04
 REG = 1e-04
 
-def fit(model, data, device, model_path, output):
+def fit(model, data, device):
     
     # train and validation loaders
     train_loader, valid_loader = data
@@ -199,7 +199,7 @@ def main():
         print("Running on the CPU")
     
                 
-    model = CNN.to(DEVICE)
+    model = CNN().to(DEVICE)
     
         
     (train_loader, valid_loader, test_loader) = get_data_loaders()
